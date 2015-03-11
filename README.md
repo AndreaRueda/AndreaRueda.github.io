@@ -1,4 +1,4 @@
 # AndreaRueda.github.io 
 # trabajos realizados por Andrea Rueda
-# universidad Complutense
+# Universidad Complutense de Madrid
 # Facutad de informática
